@@ -1,5 +1,5 @@
 # Chaotic-pRNG
-This repository proposes a chaos-based pRNG which has passed -nist tests bla bla-. The pRNG combines two chaotic systems: the Sine map and the Tent map.
+This repository proposes a chaos-based pRNG which has passed NIST tests. The pRNG combines two chaotic systems: the Sine map and the Tent map.
 Lets take a look at the chaotic properties of this two maps by looking at the Bifurcation diagrams of each. <br>
 - Sine map:
 ```math
